@@ -9,7 +9,7 @@ public class CloseNumbersProblem {
 	public static String[] findClosestNumbers(int[] arr) {
 		
 	
-	String[] arrException= {"exception"};
+	
 	
 	// Girdi dizisi null ise veya uzunluğu 2'den küçük veya 1000'den büyükse bir istisna fırlat
 	if (arr == null || arr.length < 2 || arr.length >= 1000) {
