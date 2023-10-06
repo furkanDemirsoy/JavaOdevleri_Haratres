@@ -26,7 +26,7 @@ public class ShoppingCart {
             }
         }
 
-        // Eğer herhangi bir istisna oluşmadıysa işleme devam et
+        
         
 
             ArrayList<Integer> itemsWithoutDiscount = new ArrayList<Integer>();
